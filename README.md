@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/mthfrr/mthfrr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mthfrr&include_all_commits=true&theme=material-palenight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+___
+<a href="https://github.com/mthfrr/mthfrr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthfrr&theme=material-palenight&hide=ASP,ShaderLab,Mathematica,CMake,Swift&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
