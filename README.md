@@ -20,3 +20,6 @@ ___
 <a href="https://github.com/mthfrr/mthfrr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthfrr&theme=gruvbox&hide=ASP,ShaderLab,Mathematica,CMake,Swift,vim%20script&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mthfrr&repo=asm_tooling)](https://github.com/mthfrr/asm_tooling)
