@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 </a>
 ___
 <a href="https://github.com/mthfrr/mthfrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthfrr&theme=material-palenight&hide=ASP,ShaderLab,Mathematica,CMake,Swift,VimScript&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthfrr&theme=material-palenight&hide=ASP,ShaderLab,Mathematica,CMake,Swift,Vimscript&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
