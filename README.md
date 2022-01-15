@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# hello !
+- I am 3rd year student in Computer Science at [EPITA](https://www.epita.fr/en/).
+- Contact me here: mathieu.fourre@epita.fr
 
 <a href="https://github.com/mthfrr/mthfrr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mthfrr&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
